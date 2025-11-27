@@ -7,7 +7,6 @@ This repository contains a curated collection of AI art prompts for generating a
 ```
 AI-Art-Prompt-Collection-for-Anthro-Characters/
 ├── README.md
-├── CLAUDE.md
 ├── Natural_Language_Based/
 │   ├── assets/
 │   │   ├── 1/
