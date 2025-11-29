@@ -1,14 +1,15 @@
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
-*   [No. 1: Mofu Mofu Transformation (Photographer)](#cases-1)
-*   [No. 2: ASCII Art](#cases-2)
-*   [No. 3: Milk Bottle Art](#cases-3)
-*   [No. 4: Milk Carton Advertisement](#cases-4)
-*   [No. 5: Chalk Art on Blackboard](#cases-5)
-*   [No. 6: Galgame Hotspring Scene](#cases-6)
-*   [No. 7: Chibi Teasing Emoji](#cases-7)
-*   [No. 8: Manga Page - Nick Wilde Peanut Butter](#cases-8)
+*   [No. 1: Mofu Mofu Transformation (Photographer)](#cases-1) 🔴
+*   [No. 2: ASCII Art](#cases-2) 🔴
+*   [No. 3: Milk Bottle Art](#cases-3) 🔴
+*   [No. 4: Milk Carton Advertisement](#cases-4) 🔴
+*   [No. 5: Chalk Art on Blackboard](#cases-5) 🔴
+*   [No. 6: Galgame Hotspring Scene](#cases-6) 🔴
+*   [No. 7: Chibi Teasing Emoji](#cases-7) 🔴
+*   [No. 8: Manga Page - Nick Wilde Peanut Butter](#cases-8) 🟢
+*   [No. 9: Pastel Chibi Self-Kiss Scene](#cases-9) 🔴
 
 ---
 
@@ -16,7 +17,7 @@
 ## 🧩 No.
 
 <a id="cases-1"></a>
-### No. 1: Mofu Mofu Transformation (Photographer)
+### No. 1: Mofu Mofu Transformation (Photographer) 🔴
 
 <img src="assets/1/image.png" width="300" alt=""><br>
 <sub>Credit: [与纸Yuzhi](https://github.com/Yuzhifur)</sub>
@@ -31,7 +32,7 @@ Arrange the four figures be front facing, but with different tilts to the left o
 Add a long horizontal arrow at the bottom with tick marks labeled 1, 2, 3, 4 as the legend.  
 
 Include a hanging bookmark tag in the top-left corner with a hand-drawn look, slightly bent, and write in cute handwritten lettering:
-"Yuzhi's mofu mofu transformation"
+"<character_name>'s mofu mofu transformation"
 Add a small decorative feather or doodle beside the text.
 
 Step 1:
@@ -82,7 +83,7 @@ Keep all four steps visually consistent as one character family, matching propor
 ---
 
 <a id="cases-2"></a>
-### No. 2: ASCII Art
+### No. 2: ASCII Art 🔴
 
 <img src="assets/2/image.png" width="300" alt=""><br>
 <sub>Credit: [与纸Yuzhi](https://github.com/Yuzhifur)</sub>
@@ -97,7 +98,7 @@ Screenshot of a thread from an anonymous bulletin board, featuring a large ASCII
 ---
 
 <a id="cases-3"></a>
-### No. 3: Milk Bottle Art
+### No. 3: Milk Bottle Art 🔴
 
 <img src="assets/3/image.png" width="300" alt=""><br>
 <sub>Credit: [与纸Yuzhi](https://github.com/Yuzhifur)</sub>
@@ -112,7 +113,7 @@ Create an art of the character provided in the reference image in a glass milk b
 ---
 
 <a id="cases-4"></a>
-### No. 4: Milk Carton Advertisement
+### No. 4: Milk Carton Advertisement 🔴
 
 <img src="assets/4/image.png" width="300" alt=""><br>
 <sub>Credit: [TlanoAI](https://x.com/TlanoAI), Prompt modified and art recreated by @与纸Yuzhi</sub>
@@ -127,7 +128,7 @@ Create an advertising photo of fresh milk with a half body portrait of the chara
 ---
 
 <a id="cases-5"></a>
-### No. 5: Chalk Art on Blackboard
+### No. 5: Chalk Art on Blackboard 🔴
 
 <img src="assets/5/image.png" width="300" alt=""><br>
 <sub>Credit: [与纸Yuzhi](https://github.com/Yuzhifur)</sub>
@@ -142,7 +143,7 @@ Create a realistic photograph of the provided image as a colored chalk art on a 
 ---
 
 <a id="cases-6"></a>
-### No. 6: Galgame Hotspring Scene
+### No. 6: Galgame Hotspring Scene 🔴
 
 <img src="assets/6/image.png" width="300" alt=""><br>
 <sub>Credit: [与纸Yuzhi](https://github.com/Yuzhifur)</sub>
@@ -160,7 +161,7 @@ Across the very bottom of the screen is a dialogue box with rounded corners, con
 ---
 
 <a id="cases-7"></a>
-### No. 7: Chibi Teasing Emoji
+### No. 7: Chibi Teasing Emoji 🔴
 
 <img src="assets/7/image.png" width="300" alt=""><br>
 <sub>Credit: [与纸Yuzhi](https://github.com/Yuzhifur)</sub>
@@ -188,7 +189,7 @@ Add small doodle accents such as sparkles, tiny marks, and simple motion lines n
 ---
 
 <a id="cases-8"></a>
-### No. 8: Manga Page - Nick Wilde Peanut Butter
+### No. 8: Manga Page - Nick Wilde Peanut Butter 🟢
 
 <img src="assets/8/image.png" width="300" alt=""><br>
 <sub>Credit: [Toynya](https://x.com/wanjumiao65535)</sub>
@@ -252,6 +253,25 @@ Add small doodle accents such as sparkles, tiny marks, and simple motion lines n
 對話氣泡 (Judy - 電話聲)： 「ニック！！また高カロリーなジャンクフード食べてるんでしょ！？」
 
 內心獨白 (Nick)： バレたか。
+```
+
+---
+
+<a id="cases-9"></a>
+### No. 9: Pastel Chibi Self-Kiss Scene 🔴
+
+<img src="assets/9/image.png" width="300" alt=""><br>
+<sub>Credit: [与纸Yuzhi](https://github.com/Yuzhifur)</sub>
+
+
+**Prompt**
+
+```
+Generate an art of the furry boy in the provided image kissing a duplicate of himself.
+Here are the pose and style requirements:
+A dynamic composition where both figures are extremely closed up, with one figure kneels while the other stands, their faces meeting at an angle where their lips have just separated. A thin, glistening strand of saliva connects them in the frozen instant. Their expressions burst with playful intensity: the kneeling figure looking up with a satisfied smile and half-closed eyes, the standing figure gazing downward with a blush and shyness, breathless softness. The kneeling figure has one hand resting on the standing figure's hip, the other lightly brushing against the standing figure's forearm. The standing figure's hands float mid-air, one reaching as if about to cradle the kneeling figure's cheek. The pose is full of motion even in stillness.
+A playful, pastel-colored illustration drawn with a soft, cartoony aesthetic. The lineart is clean, slightly thick, and uniformly smooth. Colors consist of gentle pastels: clean whites, cool greens, dusty purples, soft yellows, and muted browns. Shading is minimal, using flat tones with very light, subtle shadows. Highlights are sparse or stylized rather than realistic. The characters have simplified, expressive faces with exaggerated eyes and small mouths, giving a cute, humorous tone. Anatomy is intentionally stylized, with round heads, compact bodies, and chibi-like proportions. Fur is indicated using simple zigzag or tuft shapes rather than detailed texture.
+The background features a grid pattern drawn with thin, light lines, giving a notebook or sketchpad aesthetic. Over the grid, there are playful doodles scattered around: paw prints, stars, random scribbles, abstract swirls, and tiny icons that add energy without clutter. A large rectangular section of solid pastel yellow occupies the top and bottom of the canvas, creating a banded layout that frames the characters. The overall composition feels like a character sheet or playful catalog page. Text labels in a loose, handwritten font appear near each character, adding a casual, illustrative charm. The entire piece has an energetic, whimsical mood, cohesive color harmony, and a soft, friendly visual atmosphere.
 ```
 
 
