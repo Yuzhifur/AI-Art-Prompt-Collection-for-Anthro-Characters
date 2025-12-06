@@ -13,7 +13,7 @@
 *   [No. 10: Front and Side View Reference Sheet](#cases-10) 🔴
 *   [No. 11: PVC Figure Product Showcase](#cases-11) 🔴
 *   [No. 12: Front 3/4 and Back 3/4 Reference Sheet](#cases-12) 🔴
-*   [No. 13: Back 3/4 and Front 3/4 Reference Sheet (Alternate)](#cases-13) 🔴
+*   [No. 13: Back 3/4 and Front 3/4 Reference Sheet (Feral)](#cases-13) 🔴
 *   [No. 14: Kemono Fursuit at Convention](#cases-14) 🔴
 *   [No. 15: Visual Novel Screenshot - Shoe POV Sequence](#cases-15) 🔴
 
